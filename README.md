@@ -43,3 +43,5 @@ In a console type: java -version, to determine if the installation has been succ
 
 Reports are available in the path /Alation/target.As mentioned in runner file, html and json reports are available.
 Locators are available in locators.yml file to maintain the locators,easy to change for future.
+
+Hookes : Handel the Before and After functionalities in this Class. As a first Step launching the Browser and Open the Amazon site are default,so handel this is here. 
