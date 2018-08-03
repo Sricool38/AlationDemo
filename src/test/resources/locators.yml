@@ -1,0 +1,17 @@
+locator:
+
+  home_page_global_nav: nav-main
+  home_page_search_drop: searchDropdownBox
+  home_page_search_text: twotabsearchtextbox
+  home_page_submit: input[value='Go']
+  search_result_page_main: bcKwText
+  search_result_page_prod_desc: h2.a-size-medium
+  search_result_page_prod_paper_price_whole: span.sx-price-whole
+  search_result_page_prod_paper_price_currency: sup.sx-price-currency
+  search_result_page_prod_paper_price_fractional: sup.sx-price-fractional
+  search_result_page_prod_paper_price_more: span.a-size-base.a-color-base
+  product_details_page_main: dp-container
+  product_details_page_desc: productTitle
+  product_details_page_paperback_price: span.a-size-medium.a-color-price.header-price
+  product_details_page_used_price: span.a-size-medium.a-color-secondary.header-price
+  product_details_page_kindle_price: '#mediaTab_heading_0 .a-size-base.mediaTab_subtitle'
